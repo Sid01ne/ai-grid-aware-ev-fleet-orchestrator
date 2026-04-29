@@ -1,0 +1,10 @@
+//src/Main.java
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("AI Grid-Aware EV Fleet Orchestrator");
+        System.out.println("Version 0.1 - Initial setup");
+        System.out.println("Next: Vehicle and Depot models");
+    }
+}{
+    
+}
